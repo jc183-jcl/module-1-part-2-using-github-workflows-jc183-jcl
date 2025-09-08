@@ -1,7 +1,18 @@
-# Create a README.md
 
-If you need help with `Markdown`, check out [The Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)!
+# Simple Linear Regression in Python (Jupyter Notebook)
 
-What should a good README.md look like? Check out these [guidelines](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
+This repository contains a **Jupyter Notebook** for performing a simple linear regression on data stored in a CSV file.  
+It asks the user for a CSV path and column names, fits a regression line, prints the results, and plots the data with the regression line.
 
-Did you add an open source software license?
+---
+
+## Features
+- Load data from a CSV file
+- Fit a simple linear regression (`y = m*x + b`)
+- Print slope, intercept, and R²
+- Visualize data and regression line with Matplotlib
+- Display equation and R² on the plot
+
+This project is licensed under the MIT License
+---
+
