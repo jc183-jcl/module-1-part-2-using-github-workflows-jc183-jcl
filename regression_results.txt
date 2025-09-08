@@ -1,0 +1,3 @@
+Slope: 4.5636
+Intercept: 47.2000
+R-squared: 0.9977
